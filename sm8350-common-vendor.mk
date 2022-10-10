@@ -803,6 +803,13 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8350-common/proprietary/odm/lib64/libarcsoft_triple_zoomtranslator.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_triple_zoomtranslator.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib64/libarcsoft_videoautozoom.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_videoautozoom.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib64/libc++_shared.so:$(TARGET_COPY_OUT_ODM)/lib64/libc++_shared.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcalculator.so:$(TARGET_COPY_OUT_ODM)/lib64/libcalculator.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcalculator_domains.so:$(TARGET_COPY_OUT_ODM)/lib64/libcalculator_domains.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcalculator_htp.so:$(TARGET_COPY_OUT_ODM)/lib64/libcalculator_htp.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcdm_metrics_protos.so:$(TARGET_COPY_OUT_ODM)/lib64/libcdm_metrics_protos.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcdm_protos.so:$(TARGET_COPY_OUT_ODM)/lib64/libcdm_protos.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcodec2_soft_ozodec.so:$(TARGET_COPY_OUT_ODM)/lib64/libcodec2_soft_ozodec.so \
+    vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcodec2_soft_ozoenc.so:$(TARGET_COPY_OUT_ODM)/lib64/libcodec2_soft_ozoenc.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib64/libcom.oplus.calidatacontainer.so:$(TARGET_COPY_OUT_ODM)/lib64/libcom.oplus.calidatacontainer.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib64/libdehaze.so:$(TARGET_COPY_OUT_ODM)/lib64/libdehaze.so \
     vendor/oneplus/sm8350-common/proprietary/odm/lib64/libdualcam_image_optical_zoom.so:$(TARGET_COPY_OUT_ODM)/lib64/libdualcam_image_optical_zoom.so \
